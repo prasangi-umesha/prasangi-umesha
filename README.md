@@ -1,4 +1,4 @@
-<img src="C:\Users\Prasangi\Desktop">
+<img src="C:\Users\Prasangi\Desktop",alt="prasa">
 <h1 align="center">Hi 👋, I'm Prasangi Umesha</h1>
 <h3 align="center">Passionate ICT Student | Exploring the Boundless World of Technology</h3>
 
