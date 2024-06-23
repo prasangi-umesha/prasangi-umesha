@@ -1,8 +1,8 @@
-<img src="C:\Users\Prasangi\Desktop?pras.jpg">
+
 <h1 align="center">Hi 👋, I'm Prasangi Umesha</h1>
 <h3 align="center">Passionate ICT Student | Exploring the Boundless World of Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prasangi-umesha&label=Profile%20views&color=0e75b6&style=flat" alt="prasangi-umesha" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prasangi-umesha&label=Profile%20views&color=0e75b6&style=flat" alt="prasangi-umesha" /> </p>
 
 - 🌱 I’m currently learning **Natural language processing (NLP)**
 
